@@ -162,7 +162,7 @@ The project is developed using a documentation-first approach. Important enginee
 | Document                                              | Description                                                |
 | ----------------------------------------------------- | ---------------------------------------------------------- |
 | [Project Overview](docs/01-project-overview.md)       | Product vision, objectives, scope, users, and constraints  |
-| [Requirements Specification](docs/02-software-requirements-specification.md) |
+| [Requirements Specification](docs/02-requirements.md) | Functional and non-functional system requirements |
 
 > Documentation will be updated throughout development as requirements and technical decisions evolve.
 
