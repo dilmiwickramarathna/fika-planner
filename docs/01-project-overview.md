@@ -3,7 +3,6 @@
 
 **Plan Better Coffee Breaks Together**
 
-Dilmi Wickramarathna
 
 ## Table of Contents
 
